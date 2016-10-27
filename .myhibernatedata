@@ -1,0 +1,25 @@
+#MyEclipse Hibernate Properties
+#Sun Dec 27 14:46:55 CST 2015
+sessionFactoryName=com.vveplat.dao.HibernateSessionFactory
+genBasicCompId=true
+profile=
+daoSFId=
+version=3.3
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+libInstallFolder=lib
+addLibs2Project=true
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=true
+reSettingsFile=/vve_plat_dao/hibernate.reveng.xml
+configFile=/vve_plat_dao/src/main/java/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=true
+baseDaoClass=com.vveplat.dao.business.models.BaseHibernateDAO
